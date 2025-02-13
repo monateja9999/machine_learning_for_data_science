@@ -1,1 +1,1 @@
-# Machine Learning for Data
+# Machine Learning for Data Science
