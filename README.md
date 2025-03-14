@@ -1,1 +1,1 @@
-# Machine Learning for Data Science under Prof. Kethia - Yao
+# Machine Learning for Data Science
