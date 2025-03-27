@@ -1,1 +1,1 @@
-# Machine Learning for Data Science Ke-Thia Yao
+# Machine Learning for Data Science
